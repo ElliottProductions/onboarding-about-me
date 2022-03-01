@@ -34,6 +34,6 @@ Work is done on a dev branch and a PR link is submitted to Canvas	1
 
 # H1 About ME
 # H2 My name is Elliott
-I use **he/him** pronouns.
-I reside in *Portland, Oregon*
+I use he/him pronouns.
+I reside in Portland, Oregon.
 Button: What's my Favorite Animal?
