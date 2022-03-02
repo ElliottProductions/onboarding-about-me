@@ -37,3 +37,4 @@ Work is done on a dev branch and a PR link is submitted to Canvas	1
 I use he/him pronouns.
 I reside in Portland, Oregon.
 Button: What's my Favorite Animal?
+Hidden "Elephant" element
