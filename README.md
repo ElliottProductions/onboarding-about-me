@@ -38,3 +38,5 @@ I use he/him pronouns.
 I reside in Portland, Oregon.
 Button: What's my Favorite Animal?
 Hidden "Elephant" element
+
+![Wireframe](/assets/images/Wireframe.png)
